@@ -1,0 +1,17 @@
+$ ls
+$ git init
+$ git status
+$ git add . 
+$ git commit -m "add message"
+$ git remote add origin "https:"
+$ git push origin master
+$ git log
+$ git branch
+$ git branch branch name
+$ git checkout branch name
+$ git commit -am "message"
+$ git mv oldbranchname newbranchname
+$ git checkout master
+$ git merge branchname
+$ git diff
+$ git diff firstbranch secondbranch
